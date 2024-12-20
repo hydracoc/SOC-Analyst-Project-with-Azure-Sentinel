@@ -67,7 +67,7 @@ Simulated attack scenarios included:
 ---
 
 ## **KQL Queries**
-Explore the `queries/` folder for all KQL queries used in this project.
+Explore the `queries.md` folder for all KQL queries used in this project.
 
 ### Example Query: Failed Logins
 ```kql
